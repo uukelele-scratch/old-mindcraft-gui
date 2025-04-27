@@ -1,4 +1,7 @@
-# mindcraft-gui
+# OLD AND UNMAINTAINED
+## Check out [mindcraft-gui](https://github.com/uukelele-scratch/mindcraft-gui) for the new, maintained version.
+
+# old-mindcraft-gui
 GUI for Mindcraft
 
 http://uukelele.ddns.net/mindcraft
